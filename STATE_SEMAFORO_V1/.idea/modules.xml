@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO.iml" filepath="$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO_main.iml" filepath="$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO_main.iml" group="STATE_SEMAFORO" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO_test.iml" filepath="$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO_test.iml" group="STATE_SEMAFORO" />
+    </modules>
+  </component>
+</project>
