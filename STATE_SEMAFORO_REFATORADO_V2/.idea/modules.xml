@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO_REFATORADO.iml" filepath="$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO_REFATORADO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO_REFATORADO_main.iml" filepath="$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO_REFATORADO_main.iml" group="STATE_SEMAFORO_REFATORADO" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO_REFATORADO_test.iml" filepath="$PROJECT_DIR$/.idea/modules/STATE_SEMAFORO_REFATORADO_test.iml" group="STATE_SEMAFORO_REFATORADO" />
+    </modules>
+  </component>
+</project>
